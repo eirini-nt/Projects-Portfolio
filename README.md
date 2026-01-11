@@ -1,11 +1,7 @@
-#  Certified Data Analyst
+#  Certified Data Analyst  ### Technical Skills: Excel, Power Bi, Python, SQL
 
-### Technical Skills: Excel, Power Bi, Python, SQL
-
-
+## PROJECTS
 
 
-## Projects
-
-### Healthcare - Stroke Data Analysis
+### * Healthcare - Stroke Data Analysis
 [Healthcare](https://github.com/eirini-nt/Healthcare_Project)
