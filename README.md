@@ -2,4 +2,7 @@
 
 ### Technical Skills: Excel, Power Bi, Python, SQL
 
+
+
+
 ## Projects
