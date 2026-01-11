@@ -8,4 +8,4 @@
 ## Projects
 
 ### Healthcare - Stroke Data Analysis
-[Healthcare] (https://github.com/eirini-nt/Healthcare_Project)
+[Healthcare](https://github.com/eirini-nt/Healthcare_Project)
